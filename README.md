@@ -1,0 +1,2 @@
+# proje-odevi
+veritabanı proje
